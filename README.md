@@ -1,0 +1,2 @@
+# DUAD
+Python programming exercises
