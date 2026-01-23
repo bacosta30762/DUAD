@@ -1,0 +1,33 @@
+1. Inicio 
+2. Si tiene computadora:
+    1. Enciéndela
+    2. Ingresa al computador y accede a tu navegador preferido
+    3. En la barra del navegador o en el buscador escribe youtube.com
+3. Sino:
+    1. Si tiene smartphone:
+        1. Buscar la aplicación de youtube.
+        2. Si la aplicación no está instalada entonces:
+            1. Descargar la aplicación en el dispositivo e instalarla.
+        3. Abrir la aplicación
+4. Sino:
+    1. Si tiene tablet:
+        1. Buscar la aplicación de youtube.
+        2. Si la aplicación no está instalada entonces:
+            1. Descargar la aplicación en el dispositivo e instalarla.
+        3. Abrir la aplicación
+5. Sino:
+    1. Si tiene smart TV:
+        1. Buscar la aplicación de youtube.
+        2. Si la aplicación no está instalada entonces:
+            1. Descargar la aplicación en el dispositivo e instalarla.
+            2. Abrir la aplicación
+6. Sino:
+    1. busque a alguna persona que tenga algún dispositivo de los mencionados anteriormente y solicítelo prestado.
+7. Si tiene internet:
+    1. Aparecerá la vista de youtube en pantalla.
+    2. Sino:
+        1. Debe de ingresar a internet el dispositivo que está  utilizando
+8. En la barra del buscador de youtube ingresar el nombre del video o el tema que desea encontrar.
+9. Elegir el video que desea visualizar.
+10. Reproducir el video.
+11. Fin

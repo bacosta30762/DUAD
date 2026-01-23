@@ -1,0 +1,13 @@
+1. Inicio
+2. Definir `numero_usuario`
+3. Definir `numero_final` = 0
+4. Definir `contador`= 1
+5. Mostrar “Ingresé un número entero: ”
+6. Pedir `numero_usuario`
+7. Mientras que (`contador`≤ `numero_usuario`):
+    1. `numero_final` =  `numero_final` + `contador`
+    2. `contador` =  `contador`+ 1
+8. FinMientras
+9. Mostrar “El resultado de la suma es: “
+10. Mostrar `numero_final` 
+11. Fin

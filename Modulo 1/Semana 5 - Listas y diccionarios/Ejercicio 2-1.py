@@ -42,36 +42,3 @@ while counter < hotels:
     counter += 1
 
 print(all_hotels)
-
-#Ejercicio 2
-print("\n")
-
-list_a = ["first_name", "last_name", "role"]
-list_b = ["Brandon", "Acosta", "Software Engineer"]
-
-name_position = {}
-
-
-for index in range(len(list_a)):
-    name_position[list_a[index]] = list_b[index]
-
-for key, item in name_position.items():
-    print(key, ":", item)
-
-#Ejercicio 3
-print("\n")
-
-list_of_keys = ["access_level", "age"]
-employee = {
-    "name": "John",
-    "email": "john@ecorp.com",
-    "access_level": 5,
-    "age": 28}
-
-for index in range(len(list_of_keys)):
-    value = list_of_keys[index]
-    for key in list(employee.keys()):
-        if key == value:
-            employee.pop(key)
-
-print(employee)
