@@ -1,0 +1,20 @@
+1. Inicio
+2. Definir `tiempo_segundos`
+3. Definir `diez_minutos` = 600
+4. Definir `menor`
+5. Definir `mayor` = “Mayor”
+6. Definir `igual` = “Igual”
+7. Mostrar “¿Introduzca el tiempo en segundos?”
+8. Pedir `tiempo_segundos`
+9. Si (`tiempo_segundos` < `diez_minutos`) entonces:
+    1. `menor` = `diez_minutos` - `tiempo_segundos`
+    2. Mostrar “El tiempo en segundos que faltan para que se cumplan los diez minutos es:
+    3. Mostrar `menor`
+10. Sino:
+    1. Si (`tiempo_segundos` > `diez_minutos`) entonces:
+        1. Mostrar `mayor`
+    2. Sino:
+        1. Mostrar `igual`
+    3. FinSi
+11. FinSi
+12. Fin
