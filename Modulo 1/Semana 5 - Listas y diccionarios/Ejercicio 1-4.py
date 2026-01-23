@@ -1,0 +1,9 @@
+#Ejercicio 4    
+print("\n")
+my_list = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+for index in range (len(my_list)-1, -1, -1):
+    if my_list[index] % 2 != 0:
+        eliminate = my_list.pop(index)
+
+print(my_list)

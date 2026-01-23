@@ -1,0 +1,53 @@
+1. Inicio
+2. Despertarme
+3. Si la alarma esta sonando:
+    1. apagarla.
+    2. Sino:
+        1. Desconectar la alarma.
+4. Me cambio y me pongo ropa del gimnasio
+5. Agarro las llaves del carro
+6. Reviso el carro
+7. Si el carro tiene gasolina:
+    1. Voy directo al gimnasio en el carro
+    2. Sino:
+        1. Paso a la gasolinera a rellenar combustible
+8. Me regreso a la casa
+9. Me baño
+10. Me mudo
+11. Mientras no haya desayunado y  tenga hambre:
+    1. Si hay huevos:
+        1. Cocinar dos huevos revueltos.
+    2. Si hay jamón y hay huevos:
+        1. Picar y cocinar un jamón agregándolo al huevo.
+    3. Sino:
+        1. Si hay leche y cereal:
+        
+               1. Alistar una taza de cereal
+        
+    4. Sino:
+        1. Salir sin desayunar
+12. Si teletrabajo:
+    1. Me quedó en la casa realizando los labores del día.
+    2. Sino:
+        1. Encender el carro y trasladarse a la oficina.
+13. Una vez finalizado el día laboral me monto al carro y salgo de la oficina.
+14. Me pregunto si necesito realizar compras:
+    1. Si necesito realizar compras:
+        1. Mientras necesite comprar cosas:
+            1. Pasar a los lugares necesarios.
+    2. Sino:
+        1. Trasladarse de nuevo a la casa
+15. En la casa me preparo la cena y almuerzo del día siguiente
+16. Descanso
+17. Realizó trabajos o estudio
+18. Veo televisión
+19. Reviso que la alarma este puesta para el día siguiente:
+    1. Si la alarma esta puesta:
+        1. Me acuesto
+    2. Sino:
+        
+        ii.     Configuro la alarma
+        
+        iii.   Me acuesto.
+        
+20. Fin
