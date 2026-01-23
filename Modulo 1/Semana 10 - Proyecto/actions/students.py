@@ -1,4 +1,5 @@
-from notes import input_grade
+from actions.notes import input_grade
+from actions.notes import average_grades_student
 
 def create_student():
     name = input("Enter full name: ")
@@ -11,10 +12,17 @@ def create_student():
         "science": input_grade("Science")
     }
 
+    average = average_grades_student(
+        grades["spanish"],
+        grades["english"],
+        grades["socials"],
+        grades["science"])
+
     student = {
         "name": name,
         "section": section,
-        "grades": grades
+        "grades": grades,
+        "average": average
     }
 
     return student
